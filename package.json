@@ -12,5 +12,9 @@
   "devDependencies": {
     "tailwindcss": "^3.3.5",
     "vite": "^5.0.0"
+  },
+  "dependencies": {
+    "canvas-confetti": "^1.9.1",
+    "typed.js": "^2.1.0"
   }
 }
